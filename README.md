@@ -1,3 +1,6 @@
+# Bias-In-Judicial-System
+
+
 This Essay Explores the bias in the use of COMPAS in US Judicial System.
 
 Governments have adopted machine algorithms and implemented them in criminal justice systems; courts are routinely using predictive models to aid judges to conduct more accurate and efficient trials. However, studies have shown that such algorithms are sometimes subjected to ethical implications such as racial bias and gender bias. 
